@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GergesGhaly/react-route-training-Ytub-tut.git/static/css/main.af4fc2b1.chunk.css",
+    "main.js": "/GergesGhaly/react-route-training-Ytub-tut.git/static/js/main.77719c5c.chunk.js",
+    "main.js.map": "/GergesGhaly/react-route-training-Ytub-tut.git/static/js/main.77719c5c.chunk.js.map",
+    "runtime-main.js": "/GergesGhaly/react-route-training-Ytub-tut.git/static/js/runtime-main.d84d4f31.js",
+    "runtime-main.js.map": "/GergesGhaly/react-route-training-Ytub-tut.git/static/js/runtime-main.d84d4f31.js.map",
+    "static/js/2.9dc9cf5d.chunk.js": "/GergesGhaly/react-route-training-Ytub-tut.git/static/js/2.9dc9cf5d.chunk.js",
+    "static/js/2.9dc9cf5d.chunk.js.map": "/GergesGhaly/react-route-training-Ytub-tut.git/static/js/2.9dc9cf5d.chunk.js.map",
+    "static/js/3.7710cbee.chunk.js": "/GergesGhaly/react-route-training-Ytub-tut.git/static/js/3.7710cbee.chunk.js",
+    "static/js/3.7710cbee.chunk.js.map": "/GergesGhaly/react-route-training-Ytub-tut.git/static/js/3.7710cbee.chunk.js.map",
+    "index.html": "/GergesGhaly/react-route-training-Ytub-tut.git/index.html",
+    "static/css/main.af4fc2b1.chunk.css.map": "/GergesGhaly/react-route-training-Ytub-tut.git/static/css/main.af4fc2b1.chunk.css.map",
+    "static/js/2.9dc9cf5d.chunk.js.LICENSE.txt": "/GergesGhaly/react-route-training-Ytub-tut.git/static/js/2.9dc9cf5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d84d4f31.js",
+    "static/js/2.9dc9cf5d.chunk.js",
+    "static/css/main.af4fc2b1.chunk.css",
+    "static/js/main.77719c5c.chunk.js"
+  ]
+}
